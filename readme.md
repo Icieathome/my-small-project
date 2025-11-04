@@ -1,1 +1,1 @@
-This is a project that shows the date and time and has inspirational quotes with a nature background. I chose to work on this project just to practice and have fun with it as well as to make something to brighten my day and feel inspired.
+This is a project that shows the current date and time and has inspirational quotes with a background. I chose to work on this project just to practice and have fun with it as well as to make something to brighten my day and feel inspired. 
