@@ -14,7 +14,9 @@ const quotes = [
     "Believe you can and you're halfway there.",
     "The best way out is always through.",
     "It always seems impossible until it's done.",
-    "Do what you can, with what you have, where you are."
+    "Do what you can, with what you have, where you are.",
+    "Keep your face to the sunshine, and you cannot see a shadow.",
+    "Champions keep playing until they get it right."
 ];
 
 function updateTime() {
