@@ -10,17 +10,17 @@ body {
     justify-content: center;
     height: 100vh;
     color:black; font-weight: bold;
-    transition:background 0.5s ease, color 0.5s ease;
+    transition: background0.5s ease, color0.5s ease;
 }
 .container {
     background: rgba(0, 0, 0, 0);
     padding: 2rem;
-    borderradius: 1rem;
+    border-radius: 1rem;
     text-align: center;
     width: 90%;
     max-width: 500px;
     box-shadow: 0 4px 20px
-    rgba(0, 0, 0, 0.3);
+    rgba(0, 0, 0, 0.5);
 }
 .time {
     font-size: 2rem;
