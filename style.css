@@ -9,16 +9,14 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background:
-    url('https://source.unsplash.com/1600x900/?nature,sky') no-repeat
-    center/cover;
+    background: image src: 'https://unsplash.com/photos/white-cherry-blossoms-on-a-tree-branch-xHdijH_AeAc'
     color: #fff;
-    transition: background 0.5s ease, color 0.5s ease;
+    transition:background0.5s ease, color 0.5s ease;
 }
 .container {
     background: rgba(0, 0, 0, 0.4);
     padding: 2rem;
-    border radius: 1rem;
+    borderradius: 1rem;
     text-align: center;
     width: 90%;
     max-width: 500px;
@@ -41,7 +39,7 @@ button {
     color: #555;
     font-size: 1rem;
     cursor:pointer;
-    transition: background 0.3s;
+    transition:background0.3s;
 }
 button:hover {
     background: rgba(255, 255, 255, 0.4)

@@ -25,7 +25,7 @@ function updateTime() {
 function newQuote() {
     const randomIndex = Math.floor(Math.random() * quotes.length);
     quoteDisplay.textContent = quotes[randomIndex];
-    document.body.style.background = "url('https://source.unsplash.com/1600x900/?nature,landscape')";
+    document.body.style.background = "url('https://picsum.photos/1600/900')";
     document.body.style.backgroundRepeat = "no-repeat";
     document.body.style.backgroundSize = "cover";
     document.body.style.backgroundPosition = "center";
